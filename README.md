@@ -21,7 +21,7 @@ I'm an **Artificial Intelligence and Data Engineering** student who just wrapped
 * **Libraries:** NumPy, Pandas, Matplotlib, Seaborn
 
 ### 📫 Let's Connect!
-* **LinkedIn:** https://www.linkedin.com/in/erva-yigit-48a117426/
+* **LinkedIn:** linkedin.com/in/erva-yigit-48a117426
 * **Email:** yigitervanur55@gmail.com
 
 ---
